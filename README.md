@@ -43,3 +43,7 @@ Este é um projeto de um website responsivo desenvolvido como parte de uma séri
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Visite web:
+   ```web
+   https://pedrovitor004.github.io/PROJETO-WEBSITE-INTELLIOGIA/
