@@ -10,19 +10,25 @@ Este é um projeto de um website responsivo desenvolvido como parte de uma séri
 
 ## Tecnologias Utilizadas
 
-1. **HTML**:
-   - Estrutura semântica e bem organizada.
-   - Uso de tags modernas para garantir acessibilidade e SEO.
+### 1. HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
 
-2. **CSS**:
-   - Layout responsivo utilizando Flexbox e CSS Grid.
-   - Media Queries para ajustes visuais em diferentes dispositivos.
-   - Animações e transições para uma experiência visual mais fluida.
+- Estrutura semântica e bem organizada.
+- Uso de tags modernas para garantir acessibilidade e SEO.
 
-3. **JavaScript**:
-   - Manipulação do DOM para criar interações dinâmicas.
-   - Validação de formulários e outros eventos do usuário.
-   - Integração de APIs para funcionalidade adicional.
+### 2. CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
+
+- Layout responsivo utilizando Flexbox e CSS Grid.
+- Media Queries para ajustes visuais em diferentes dispositivos.
+- Animações e transições para uma experiência visual mais fluida.
+
+### 3. JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+
+- Manipulação do DOM para criar interações dinâmicas.
+- Validação de formulários e outros eventos do usuário.
+- Integração de APIs para funcionalidade adicional.
 
 ## Como Utilizar
 
