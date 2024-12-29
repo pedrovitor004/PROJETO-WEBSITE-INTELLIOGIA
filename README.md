@@ -11,7 +11,7 @@ Este é um projeto de um website responsivo desenvolvido como parte de uma séri
 ## Prévia do Resultado
 
 ### Desktop
-![Resultado Desktop]()
+![Resultado Desktop](resultado-desk.png)
 
 ### Mobile
 ![Resultado Mobile](resultado-mobile.png)
