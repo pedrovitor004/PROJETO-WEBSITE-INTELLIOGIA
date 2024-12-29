@@ -8,6 +8,14 @@ Este é um projeto de um website responsivo desenvolvido como parte de uma séri
 - **Interatividade com JavaScript**: Funcionalidades dinâmicas que tornam a experiência do usuário mais rica.
 - **Estilização Avançada**: Utilização de CSS moderno, incluindo flexbox, grid e análises de performance para um carregamento eficiente.
 
+## Prévia do Resultado
+
+### Desktop
+![Resultado Desktop](caminho/para/imagem-desktop.png)
+
+### Mobile
+![Resultado Mobile](caminho/para/imagem-mobile.png)
+
 ## Tecnologias Utilizadas
 
 ### 1. HTML
