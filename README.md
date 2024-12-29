@@ -11,10 +11,10 @@ Este é um projeto de um website responsivo desenvolvido como parte de uma séri
 ## Prévia do Resultado
 
 ### Desktop
-![Resultado Desktop](caminho/para/imagem-desktop.png)
+![Resultado Desktop]()
 
 ### Mobile
-![Resultado Mobile](caminho/para/imagem-mobile.png)
+![Resultado Mobile](resultado-mobile.png)
 
 ## Tecnologias Utilizadas
 
